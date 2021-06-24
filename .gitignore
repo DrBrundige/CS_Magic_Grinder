@@ -1,0 +1,13 @@
+.DS_Store
+**/bin
+**/.vscode
+**/obj
+out
+*.iml
+.idea/workspace.xml
+*.tmp
+*.class
+*.pyc
+*.csv
+*.jpg
+
